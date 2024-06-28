@@ -1,0 +1,87 @@
+{
+    "arguments": [
+        {
+            "__class__": "IntegerArgument",
+            "name": "one",
+            "description": "Argument 1",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": 1,
+            "min_value": -100,
+            "max_value": 100
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "operation",
+            "description": "Operation",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "Add",
+            "choices": [
+                "Add",
+                "Subtract"
+            ],
+            "file": false
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "string_in",
+            "description": "Message",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "",
+            "file": false
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "string_out",
+            "description": "Output",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": "",
+            "file": false
+        },
+        {
+            "__class__": "GridArgument",
+            "name": "grid_in",
+            "description": "An input UGrid",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": ""
+        },
+        {
+            "__class__": "GridArgument",
+            "name": "grid_out",
+            "description": "An output UGrid",
+            "io_direction": 2,
+            "optional": false,
+            "hide": false,
+            "value": ""
+        },
+        {
+            "__class__": "DatasetArgument",
+            "name": "dataset_in",
+            "description": "An input dataset",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": ""
+        },
+        {
+            "__class__": "DatasetArgument",
+            "name": "dataset_out",
+            "description": "An output dataset",
+            "io_direction": 2,
+            "optional": false,
+            "hide": false,
+            "value": ""
+        }
+    ],
+    "output": "$XMS_BOLD$Running tool \"Simple Addition\"...\nInput parameters: {'one': 1, 'two': 2.0, 'operation': Add, 'string_in': , 'string_out': , 'grid_in': , 'grid_out': , 'dataset_in': , 'dataset_out': }\nMessage is: \nGrid is: \nCompleted tool \"Simple Addition\"\n",
+    "status": "success"
+}

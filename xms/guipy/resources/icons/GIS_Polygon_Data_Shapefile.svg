@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.933332mm"
+   height="14.816667mm"
+   viewBox="0 0 16.933332 14.816667"
+   version="1.1"
+   id="svg329779"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="GIS_Polygon_Data_Shapefile.svg">
+  <defs
+     id="defs329773">
+    <linearGradient
+       y2="52.138199"
+       x2="1727.4164"
+       y1="15.8618"
+       x1="1664.5836"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_168_">
+      <stop
+         id="stop2285"
+         style="stop-color:#95A167"
+         offset="0" />
+      <stop
+         id="stop2287"
+         style="stop-color:#39450C"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6857143"
+     inkscape:cx="40.571424"
+     inkscape:cy="20.857142"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="460"
+     inkscape:window-height="403"
+     inkscape:window-x="200"
+     inkscape:window-y="200"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata329776">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.200001,-130.84167)">
+    <g
+       id="g2294"
+       transform="matrix(0.26458333,0,0,0.26458333,-364.06666,128.725)">
+      <g
+         id="g2283">
+        <path
+           id="path2281"
+           d="m 1715.9,64 h -39.8 C 1669.4,64 1664,58.6 1664,51.9 V 24.1 c 0,-6.7 5.4,-12.1 12.1,-12.1 h 39.8 c 6.7,0 12.1,5.4 12.1,12.1 v 27.8 c 0,6.7 -5.4,12.1 -12.1,12.1 z"
+           class="st2"
+           inkscape:connector-curvature="0"
+           style="fill:#bcbec0" />
+      </g>
+      <g
+         id="g2292">
+        <linearGradient
+           y2="52.138199"
+           x2="1727.4164"
+           y1="15.8618"
+           x1="1664.5836"
+           gradientUnits="userSpaceOnUse"
+           id="linearGradient329759">
+          <stop
+             id="stop329755"
+             style="stop-color:#95A167"
+             offset="0" />
+          <stop
+             id="stop329757"
+             style="stop-color:#39450C"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path2290"
+           d="m 1715.9,60 h -39.8 C 1669.4,60 1664,54.6 1664,47.9 V 20.1 c 0,-6.7 5.4,-12.1 12.1,-12.1 h 39.8 c 6.7,0 12.1,5.4 12.1,12.1 v 27.8 c 0,6.7 -5.4,12.1 -12.1,12.1 z"
+           class="st213"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_168_)" />
+      </g>
+    </g>
+    <path
+       id="path2296"
+       d="m 89.323335,143.54167 h -9.31333 c -1.50812,0 -2.75167,-1.24355 -2.75167,-2.75167 v -6.13833 c 0,-1.50813 1.24355,-2.75167 2.75167,-2.75167 h 9.31333 c 1.50813,0 2.75167,1.24354 2.75167,2.75167 V 140.79 c 0,1.50812 -1.24354,2.75167 -2.75167,2.75167 z"
+       class="st214"
+       inkscape:connector-curvature="0"
+       style="fill:#e4f3b7;stroke-width:0.26458332" />
+    <rect
+       id="rect2360"
+       height="9.5249996"
+       width="10.583333"
+       class="st219"
+       y="132.95833"
+       x="79.375"
+       style="fill:#425015;stroke-width:0.26458332" />
+    <rect
+       id="rect2362"
+       height="7.4083333"
+       width="8.4666662"
+       class="st0"
+       y="134.01666"
+       x="80.433334"
+       style="fill:#ffffff;stroke-width:0.26458332" />
+    <polygon
+       id="polygon2364"
+       points="1712,22 1712,48 1680,48 1680,31 1685,31 1689,34 1700,34 "
+       class="st214"
+       style="fill:#e4f3b7"
+       transform="matrix(0.26458333,0,0,0.26458333,-364.06666,128.725)" />
+    <polyline
+       id="polyline2366"
+       points="1678,30 1686,30 1690,34 1694,34 1698,34 1698,42 1702,46 1702,50  "
+       class="st220"
+       style="fill:none;stroke:#425015;stroke-width:4;stroke-miterlimit:10"
+       transform="matrix(0.26458333,0,0,0.26458333,-364.06666,128.725)" />
+    <line
+       id="line2368"
+       y2="134.01666"
+       x2="88.900009"
+       y1="137.72083"
+       x1="85.195831"
+       class="st220"
+       style="fill:none;stroke:#425015;stroke-width:1.05833328;stroke-miterlimit:10" />
+    <rect
+       id="rect2370"
+       height="1.0583333"
+       width="1.0583333"
+       y="135.075"
+       x="83.608337"
+       style="stroke-width:0.26458332" />
+    <rect
+       id="rect2372"
+       height="1.0583333"
+       width="1.0583333"
+       y="138.25"
+       x="86.78334"
+       style="stroke-width:0.26458332" />
+    <rect
+       id="rect2374"
+       height="1.0583333"
+       width="1.0583333"
+       y="139.30833"
+       x="81.491669"
+       style="stroke-width:0.26458332" />
+  </g>
+</svg>

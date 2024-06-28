@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15.875mm"
+   height="16.977943mm"
+   viewBox="0 0 15.875 16.977943"
+   version="1.1"
+   id="svg42856"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="2D_Mesh_Icon.svg">
+  <defs
+     id="defs42850">
+    <linearGradient
+       y2="1632.3428"
+       x2="2453.9995"
+       y1="1632.3428"
+       x1="2398.5122"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_40_">
+      <stop
+         id="stop1283"
+         style="stop-color:#96CCD0"
+         offset="0" />
+      <stop
+         id="stop1285"
+         style="stop-color:#7788DC"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0868421"
+     inkscape:cx="44.285732"
+     inkscape:cy="23.512862"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="460"
+     inkscape:window-height="403"
+     inkscape:window-x="250"
+     inkscape:window-y="250"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata42853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.895829,-140.34436)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-536.04583,-282.98897)"
+       id="g1292">
+      <linearGradient
+         y2="1632.3428"
+         x2="2453.9995"
+         y1="1632.3428"
+         x1="2398.5122"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient42840">
+        <stop
+           id="stop42836"
+           style="stop-color:#96CCD0"
+           offset="0" />
+        <stop
+           id="stop42838"
+           style="stop-color:#7788DC"
+           offset="1" />
+      </linearGradient>
+      <polygon
+         style="fill:url(#SVGID_40_)"
+         id="polygon1288"
+         points="2398.5,1624.5 2424,1602.7 2454,1630.9 2454,1662 2410,1662 2410,1647.5 "
+         class="st80" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1290"
+         d="m 2423.9,1605.4 28.1,26.4 v 28.3 h -40 v -12 -0.9 l -0.4,-0.8 -10.6,-21.4 22.9,-19.6 m 0.1,-5.4 -28,24 12,24 v 16 h 48 v -34 z" />
+    </g>
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:10"
+       id="line1294"
+       y2="153.04436"
+       x2="101.33543"
+       y1="148.54645"
+       x1="113.24168"
+       class="st20" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:10"
+       id="line1296"
+       y2="142.99019"
+       x2="107.68542"
+       y1="150.13394"
+       x1="100.01251"
+       class="st20" />
+    <polyline
+       transform="matrix(0.26458333,0,0,0.26458333,-536.04583,-282.98897)"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10"
+       id="polyline1298"
+       points="2407,1617 2422,1643 2422,1663  "
+       class="st20" />
+    <polyline
+       transform="matrix(0.26458333,0,0,0.26458333,-536.04583,-282.98897)"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10"
+       id="polyline1300"
+       points="2422,1663 2436,1638 2415,1609  "
+       class="st20" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:10"
+       id="line1302"
+       y2="150.39853"
+       x2="108.47918"
+       y1="157.01311"
+       x1="113.24168"
+       class="st20" />
+  </g>
+</svg>

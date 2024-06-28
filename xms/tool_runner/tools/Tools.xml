@@ -1,0 +1,40 @@
+<?xml version ="1.0"?>
+<tools filetype="xmstools" version="1">
+    <!-- ADCIRC tools -->
+    <tool name="UGrid from fort.14 File"
+          category="ADCIRC"
+          description="Create a UGrid from a fort.14 file."
+          class_name="UGridFromFort14Tool"
+          module_name="xms.tool_runner.tools"
+          program_name="SMS"
+          uuid="746faff1-4cf0-4f46-86cc-5535a3a81ffa"/>
+    <tool name="Datasets from fort.13 File"
+          category="ADCIRC"
+          description="Create datasets from a fort.13 file."
+          class_name="DatasetsFromFort13Tool"
+          module_name="xms.tool_runner.tools"
+          program_name="SMS"
+          uuid="d02199c2-8b98-4945-9a82-49fa8f9745cb"/>
+    <tool name="Dataset from fort.63.nc File"
+          category="ADCIRC"
+          description="Create a dataset from a fort.63.nc file."
+          class_name="DatasetFromFort63Tool"
+          module_name="xms.tool_runner.tools"
+          program_name="SMS"
+          uuid="c2f5922a-0afe-4fc0-a3ab-73c5aa0c8bf1"/>
+    <!-- UGrid tools -->
+    <tool name="Transform UGrid points"
+          category="Unstructured Grids"
+          description="Transform UGrid points between projections using GDAL."
+          class_name="TransformUgridPointsTool"
+          module_name="xms.tool_runner.tools"
+          program_name="SMS"
+          uuid="86c65cd7-7478-48b1-a527-cce7b25728b9"/>
+    <tool name="UGrids from SMS project"
+          category="Unstructured Grids"
+          description="Export UGrids from an SMS project."
+          class_name="ExportProjectTool"
+          module_name="xms.tool_runner.tools"
+          program_name="SMS"
+          uuid="1e583ca9-f1d3-454f-9657-eed8d1d51c5a"/>
+</tools>

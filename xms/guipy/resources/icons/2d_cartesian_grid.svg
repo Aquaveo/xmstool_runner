@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.933332mm"
+   height="16.933332mm"
+   viewBox="0 0 16.933332 16.933332"
+   version="1.1"
+   id="svg42729"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="2D_Grid_Icon.svg">
+  <defs
+     id="defs42723">
+    <linearGradient
+       y2="1658"
+       x2="2498"
+       y1="1658"
+       x1="2498"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_33_">
+      <stop
+         id="stop1120"
+         style="stop-color:#B0E3B1"
+         offset="0" />
+      <stop
+         id="stop1122"
+         style="stop-color:#044412"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="1658"
+       x2="2478"
+       y1="1658"
+       x1="2478"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_32_">
+      <stop
+         id="stop1109"
+         style="stop-color:#B0E3B1"
+         offset="0" />
+      <stop
+         id="stop1111"
+         style="stop-color:#044412"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="1637"
+       x2="2503"
+       y1="1607"
+       x1="2473"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_31_">
+      <stop
+         id="stop1098"
+         style="stop-color:#B0E3B1"
+         offset="0" />
+      <stop
+         id="stop1100"
+         style="stop-color:#044412"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="1657"
+       x2="2503"
+       y1="1627"
+       x1="2473"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_30_">
+      <stop
+         id="stop1087"
+         style="stop-color:#B0E3B1"
+         offset="0" />
+      <stop
+         id="stop1089"
+         style="stop-color:#044412"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="1662"
+       x2="2518"
+       y1="1602"
+       x1="2458"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_29_">
+      <stop
+         id="stop1076"
+         style="stop-color:#B0E3B1"
+         offset="0" />
+      <stop
+         id="stop1078"
+         style="stop-color:#044412"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2147059"
+     inkscape:cx="20.571422"
+     inkscape:cy="20.571433"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="460"
+     inkscape:window-height="403"
+     inkscape:window-x="200"
+     inkscape:window-y="200"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata42726">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.366668,-140.36667)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-552.44999,-282.96666)"
+       id="g1085">
+      <linearGradient
+         y2="1662"
+         x2="2518"
+         y1="1602"
+         x1="2458"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient42682">
+        <stop
+           id="stop42678"
+           style="stop-color:#B0E3B1"
+           offset="0" />
+        <stop
+           id="stop42680"
+           style="stop-color:#044412"
+           offset="1" />
+      </linearGradient>
+      <rect
+         style="fill:url(#SVGID_29_)"
+         id="rect1081"
+         height="60"
+         width="60"
+         class="st62"
+         y="1602"
+         x="2458" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1083"
+         d="m 2516,1604 v 56 h -56 v -56 h 56 m 4,-4 h -64 v 64 h 64 z" />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-552.44999,-282.96666)"
+       id="g1096">
+      <linearGradient
+         y2="1657"
+         x2="2503"
+         y1="1627"
+         x1="2473"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient42691">
+        <stop
+           id="stop42687"
+           style="stop-color:#B0E3B1"
+           offset="0" />
+        <stop
+           id="stop42689"
+           style="stop-color:#044412"
+           offset="1" />
+      </linearGradient>
+      <rect
+         style="fill:url(#SVGID_30_)"
+         id="rect1092"
+         height="4"
+         width="56"
+         class="st63"
+         y="1640"
+         x="2460" />
+      <polygon
+         id="polygon1094"
+         points="2516,1640 2460,1640 2460,1644 2516,1644 " />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-552.44999,-282.96666)"
+       id="g1107">
+      <linearGradient
+         y2="1637"
+         x2="2503"
+         y1="1607"
+         x1="2473"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient42700">
+        <stop
+           id="stop42696"
+           style="stop-color:#B0E3B1"
+           offset="0" />
+        <stop
+           id="stop42698"
+           style="stop-color:#044412"
+           offset="1" />
+      </linearGradient>
+      <rect
+         style="fill:url(#SVGID_31_)"
+         id="rect1103"
+         height="4"
+         width="56"
+         class="st64"
+         y="1620"
+         x="2460" />
+      <polygon
+         id="polygon1105"
+         points="2516,1620 2460,1620 2460,1624 2516,1624 " />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-552.44999,-282.96666)"
+       id="g1118">
+      <linearGradient
+         y2="1658"
+         x2="2478"
+         y1="1658"
+         x1="2478"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient42709">
+        <stop
+           id="stop42705"
+           style="stop-color:#B0E3B1"
+           offset="0" />
+        <stop
+           id="stop42707"
+           style="stop-color:#044412"
+           offset="1" />
+      </linearGradient>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#SVGID_32_)"
+         id="path1114"
+         d="M 2478,1658"
+         class="st65" />
+      <polygon
+         id="polygon1116"
+         points="2480,1604 2476,1604 2476,1660 2480,1660 " />
+    </g>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-552.44999,-282.96666)"
+       id="g1129">
+      <linearGradient
+         y2="1658"
+         x2="2498"
+         y1="1658"
+         x1="2498"
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient42718">
+        <stop
+           id="stop42714"
+           style="stop-color:#B0E3B1"
+           offset="0" />
+        <stop
+           id="stop42716"
+           style="stop-color:#044412"
+           offset="1" />
+      </linearGradient>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#SVGID_33_)"
+         id="path1125"
+         d="M 2498,1658"
+         class="st66" />
+      <polygon
+         id="polygon1127"
+         points="2500,1604 2496,1604 2496,1660 2500,1660 " />
+    </g>
+  </g>
+</svg>

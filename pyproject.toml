@@ -1,0 +1,75 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xmstool_runner"
+description = ""
+readme = "README.md"
+requires-python = ">=3.10"
+dynamic = ["version"]
+classifiers = ['XMS DMI Definition :: XML :: xms/tool_runner/tools/Tools.xml']
+
+dependencies = [
+    'matplotlib',
+    'netcdf4',
+    'numpy',
+    'pyside6>=6.6.1',
+    'testfixtures',
+    'xmscore>=6.2.4',
+    'xmsdatasets>=2.6.2',
+    'xmsgdal>=1.20.3',
+    'xmstool_core>=5.0.1',
+]
+
+[project.gui-scripts]
+tool_runner = "xms.tool_runner:tool_runner_main"
+
+[project.entry-points."xms.dmi.interfaces"]
+tool_runner = "xms.tool_runner"
+
+[tool.setuptools.packages.find]
+include = ["xms*"]
+
+[tool.setuptools_scm]
+write_to = "xms/tool_runner/__version__.py"
+
+[tool.setuptools.dynamic]
+version = {attr = "xms.tool_runner.__version__.__version__"}
+
+[tool.yapf]
+column_limit = 120
+
+[tool.isort]
+py_version = "auto"
+
+[tool.tox]
+legacy_tox_ini = """
+[tox]
+envlist = py310
+isolated_build = True
+
+[testenv]
+setenv =
+    PIP_INDEX_URL=https://aquapi.aquaveo.com/aquaveo/stable/+simple/
+    TOX_TEST=True
+deps=
+    coverage
+    pytest
+    pytest-cov
+    pytest-mock
+    requests
+    gdal==3.4.1
+commands =
+    pytest --durations=15 --cov xms.tool_runner
+    coverage report --skip-covered --include=xms/* --omit=tests/*,*__init__.py,xms/tool_runner/__version__.py --fail-under 1 -m
+    coverage html -d coverage_html --include=xms/*
+
+
+[pytest]
+testpaths =
+    tests
+
+[devpi:upload]
+formats=bdist_wheel
+"""

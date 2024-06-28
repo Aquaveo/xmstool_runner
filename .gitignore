@@ -1,0 +1,11 @@
+.idea
+**/*.pyc
+*.egg-info
+.coverage
+.tox/
+build/
+coverage_html/
+dist
+**/*_out.xmc
+**/*_out.h5
+**/*_temp

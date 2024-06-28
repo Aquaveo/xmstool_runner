@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.933332mm"
+   height="14.816667mm"
+   viewBox="0 0 16.933332 14.816667"
+   version="1.1"
+   id="svg329619"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="GIS_Scatter_Point_Shapefile.svg">
+  <defs
+     id="defs329613">
+    <linearGradient
+       y2="52.138199"
+       x2="1855.4164"
+       y1="15.8618"
+       x1="1792.5836"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_170_">
+      <stop
+         id="stop2319"
+         style="stop-color:#95A167"
+         offset="0" />
+      <stop
+         id="stop2321"
+         style="stop-color:#39450C"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1730769"
+     inkscape:cx="33.428562"
+     inkscape:cy="38.000005"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="460"
+     inkscape:window-height="403"
+     inkscape:window-x="100"
+     inkscape:window-y="100"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata329616">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-93.586907,-139.9131)">
+    <g
+       id="g2328"
+       transform="matrix(0.26458333,0,0,0.26458333,-380.54642,137.79643)">
+      <g
+         id="g2317">
+        <path
+           id="path2315"
+           d="m 1843.9,64 h -39.8 C 1797.4,64 1792,58.6 1792,51.9 V 24.1 c 0,-6.7 5.4,-12.1 12.1,-12.1 h 39.8 c 6.7,0 12.1,5.4 12.1,12.1 v 27.8 c 0,6.7 -5.4,12.1 -12.1,12.1 z"
+           class="st2"
+           inkscape:connector-curvature="0"
+           style="fill:#bcbec0" />
+      </g>
+      <g
+         id="g2326">
+        <linearGradient
+           y2="52.138199"
+           x2="1855.4164"
+           y1="15.8618"
+           x1="1792.5836"
+           gradientUnits="userSpaceOnUse"
+           id="linearGradient329599">
+          <stop
+             id="stop329595"
+             style="stop-color:#95A167"
+             offset="0" />
+          <stop
+             id="stop329597"
+             style="stop-color:#39450C"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path2324"
+           d="m 1843.9,60 h -39.8 C 1797.4,60 1792,54.6 1792,47.9 V 20.1 c 0,-6.7 5.4,-12.1 12.1,-12.1 h 39.8 c 6.7,0 12.1,5.4 12.1,12.1 v 27.8 c 0,6.7 -5.4,12.1 -12.1,12.1 z"
+           class="st216"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_170_)" />
+      </g>
+    </g>
+    <path
+       id="path2330"
+       d="m 106.71024,152.6131 h -9.313333 c -1.50813,0 -2.75167,-1.24355 -2.75167,-2.75167 v -6.13833 c 0,-1.50813 1.24354,-2.75167 2.75167,-2.75167 h 9.313333 c 1.50813,0 2.75167,1.24354 2.75167,2.75167 v 6.13833 c 0,1.50812 -1.24354,2.75167 -2.75167,2.75167 z"
+       class="st214"
+       inkscape:connector-curvature="0"
+       style="fill:#e4f3b7;stroke-width:0.26458332" />
+    <rect
+       id="rect2344"
+       height="1.0583333"
+       width="3.175"
+       class="st218"
+       y="144.14644"
+       x="96.761902"
+       style="fill:#1c2501;stroke-width:0.26458332" />
+    <rect
+       id="rect2346"
+       height="1.0583333"
+       width="3.175"
+       class="st217"
+       y="143.0881"
+       x="96.761902"
+       style="fill:#95a167;stroke-width:0.26458332" />
+    <rect
+       id="rect2348"
+       height="3.175"
+       width="1.0583333"
+       class="st217"
+       y="142.02977"
+       x="97.820236"
+       style="fill:#95a167;stroke-width:0.26458332" />
+    <rect
+       id="rect2350"
+       height="1.0583333"
+       width="2.1166666"
+       class="st217"
+       y="144.14644"
+       x="104.17024"
+       style="fill:#95a167;stroke-width:0.26458332" />
+    <rect
+       id="rect2352"
+       height="1.0583333"
+       width="2.1166666"
+       class="st217"
+       y="148.37978"
+       x="99.936905"
+       style="fill:#95a167;stroke-width:0.26458332" />
+    <rect
+       id="rect2354"
+       height="3.175"
+       width="1.0583333"
+       class="st218"
+       y="143.0881"
+       x="97.820236"
+       style="fill:#1c2501;stroke-width:0.26458332" />
+    <rect
+       id="rect2356"
+       height="1.0583333"
+       width="2.1166666"
+       class="st218"
+       y="145.20477"
+       x="104.17024"
+       style="fill:#1c2501;stroke-width:0.26458332" />
+    <rect
+       id="rect2358"
+       height="1.0583333"
+       width="2.1166666"
+       class="st218"
+       y="149.43811"
+       x="99.936905"
+       style="fill:#1c2501;stroke-width:0.26458332" />
+  </g>
+</svg>

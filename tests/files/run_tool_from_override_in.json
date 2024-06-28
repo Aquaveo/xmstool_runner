@@ -1,0 +1,98 @@
+{
+    "arguments": [
+        {
+            "__class__": "IntegerArgument",
+            "name": "one",
+            "description": "Argument 1",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": 1,
+            "min_value": -100,
+            "max_value": 100
+        },
+        {
+            "__class__": "FloatArgument",
+            "name": "two",
+            "description": "Argument 2",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": 0.5,
+            "min_value": -100.0,
+            "max_value": 100.0
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "operation",
+            "description": "Operation",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "Add",
+            "choices": [
+                "Add",
+                "Subtract"
+            ],
+            "file": false
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "string_in",
+            "description": "Message",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "0.5",
+            "file": false
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "string_out",
+            "description": "Output",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "file": false
+        },
+        {
+            "__class__": "GridArgument",
+            "name": "grid_in",
+            "description": "An input UGrid",
+            "io_direction": 1,
+            "optional": true,
+            "hide": false,
+            "value": "UGrid 1"
+        },
+        {
+            "__class__": "GridArgument",
+            "name": "grid_out",
+            "description": "An output UGrid",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": "Output Grid"
+        },
+        {
+            "__class__": "DatasetArgument",
+            "name": "dataset_in",
+            "description": "An input dataset",
+            "io_direction": 1,
+            "optional": true,
+            "hide": false,
+            "value": "UGrid 1/Dset 1"
+        },
+        {
+            "__class__": "DatasetArgument",
+            "name": "dataset_out",
+            "description": "An output dataset",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": "Output Dataset"
+        }
+    ],
+    "output": "$XMS_BOLD$Running tool \"Simple Addition\"...\nInput parameters: {'one': 1, 'two': 0.5, 'operation': Subtract, 'string_in': String In, 'string_out': , 'grid_in': UGrid 1, 'grid_out': Output Grid, 'dataset_in': UGrid 1/Dset 1, 'dataset_out': Output Dataset}\nDifference of 1 and 0.5 is 0.5\nMessage is: None\nGrid is: UGrid 1\nCompleted tool \"Simple Addition\"\n",
+    "status": "success",
+    "using_default_override": true
+}

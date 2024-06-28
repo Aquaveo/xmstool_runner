@@ -1,0 +1,166 @@
+{
+    "arguments": [
+        {
+            "__class__": "IntegerArgument",
+            "name": "one",
+            "description": "Argument 1",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": 1,
+            "min_value": -100,
+            "max_value": 100
+        },
+        {
+            "__class__": "FloatArgument",
+            "name": "two",
+            "description": "Argument 2",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": 0.5,
+            "min_value": -100.0,
+            "max_value": 100.0
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "operation",
+            "description": "Operation",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "Subtract",
+            "choices": [
+                "Add",
+                "Subtract"
+            ],
+            "file": false
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "string_in",
+            "description": "Message",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "0.5",
+            "file": false
+        },
+        {
+            "__class__": "StringArgument",
+            "name": "string_out",
+            "description": "Output",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "file": false
+        },
+        {
+            "__class__": "GridArgument",
+            "name": "grid_in",
+            "description": "An input UGrid",
+            "io_direction": 1,
+            "optional": true,
+            "hide": false,
+            "value": "UGrid 1"
+        },
+        {
+            "__class__": "GridArgument",
+            "name": "grid_out",
+            "description": "An output UGrid",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": "Output Grid"
+        },
+        {
+            "__class__": "DatasetArgument",
+            "name": "dataset_in",
+            "description": "An input dataset",
+            "io_direction": 1,
+            "optional": true,
+            "hide": false,
+            "value": "UGrid 1/Dset 1"
+        },
+        {
+            "__class__": "DatasetArgument",
+            "name": "dataset_out",
+            "description": "An output dataset",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": ""
+        },
+        {
+            "__class__": "FileArgument",
+            "name": "file_in",
+            "description": "An input file",
+            "io_direction": 1,
+            "optional": true,
+            "hide": false,
+            "value": "FileIn.txt"
+        },
+        {
+            "__class__": "FileArgument",
+            "name": "file_out",
+            "description": "An output file",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": "FileOut.txt"
+        },
+        {
+            "__class__": "BoolArgument",
+            "name": "bool_in",
+            "description": "Boolean in",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": true
+        },
+        {
+            "__class__": "BoolArgument",
+            "name": "bool_out",
+            "description": "Boolean out",
+            "io_direction": 2,
+            "optional": true,
+            "hide": false,
+            "value": false
+        },
+        {
+            "__class__": "TableArgument",
+            "name": "table_in",
+            "description": "Table in",
+            "io_direction": 1,
+            "optional": false,
+            "hide": false,
+            "value": "{\"schema\":{\"fields\":[{\"name\":\"index\",\"type\":\"integer\"},{\"name\":\"column1\",\"type\":\"number\"},{\"name\":\"column2\",\"type\":\"number\"}],\"primaryKey\":[\"index\"],\"pandas_version\":\"1.4.0\"},\"data\":[{\"index\":1,\"column1\":0.0,\"column2\":0.1},{\"index\":2,\"column1\":1.0,\"column2\":1.1}]}",
+            "table_definition": {
+                "column_types": [
+                    {
+                        "type": "FloatColumnType",
+                        "header": "column1",
+                        "tool_tip": "column1",
+                        "enabled": true,
+                        "dtype": "float",
+                        "default": 0.0,
+                        "low": 2.2250738585072014e-308,
+                        "high": 1.7976931348623157e+308
+                    },
+                    {
+                        "type": "FloatColumnType",
+                        "header": "column2",
+                        "tool_tip": "column2",
+                        "enabled": true,
+                        "dtype": "float",
+                        "default": 0.0,
+                        "low": 2.2250738585072014e-308,
+                        "high": 1.7976931348623157e+308
+                    }
+                ],
+                "fixed_row_count": null
+            }
+        }
+    ],
+    "output": "$XMS_BOLD$Running tool \"Simple Addition\"...\nInput parameters: {'one': 1, 'two': 2.0, 'operation': Add, 'string_in': , 'string_out': , 'grid_in': , 'grid_out': , 'dataset_in': , 'dataset_out': , 'file_in': , 'file_out': , 'bool_in': True, 'bool_out': False, 'table_in':    column1  column2\n1      0.0      0.1\n2      1.0      1.1}\nMessage is: \nGrid is: None\nCompleted tool \"Simple Addition\"\n"
+}
