@@ -39,4 +39,4 @@ is replaced by the port of the VNC server.
 
 
 A connection from a web browser can be made using http://noVNC-IP:6080/vnc.html?host=noVNC-IP&port=6080,
-where "noVNC-IP" is the IP address of the macOS computer.
+where "noVNC-IP" is the IP address of the macOS or Linux computer.
