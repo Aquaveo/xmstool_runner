@@ -15,10 +15,6 @@ This Python package requires Python 3.10. You may wish to use a virtual environm
 
 ```pip install . -i https://public.aquapi.aquaveo.com/aquaveo/stable/+simple/```
 
-The `tool_runner` script will be installed to the virtual environment's `Scripts` folder. It can be called with something similar to the following:
-
-```/path/to/venv/Scripts/tool_runner```
-
 You may also wish to install the tools available to SMS by running the following command:
 
 ```pip install xmstool -i https://public.aquapi.aquaveo.com/aquaveo/stable/+simple/```
@@ -40,3 +36,23 @@ is replaced by the port of the VNC server.
 
 A connection from a web browser can be made using http://noVNC-IP:6080/vnc.html?host=noVNC-IP&port=6080,
 where "noVNC-IP" is the IP address of the macOS or Linux computer running noVNC.
+
+# Quick Start: Generating UGrids from an SMS Project
+
+This example will walk you through using the "UGrids from SMS project" tool to extract UGrids from an existing SMS project file (.sms).
+
+1. Specify the Project Folder:
+
+    In the toolbox dialog, select "Project Folder..." and specify a location to save output UGrids generated from the SMS project file. This will be your output directory.
+
+2. Launch the "UGrids from SMS project" tool:
+
+    Expand the "Unstructed Grids" section in the tool tree, select the "UGrids from SMS project tool and click "Run Tool..."
+
+3. Run the tool:
+
+    Click the "Select File..." button and select the SMS project file to extract the UGrids from. Then click OK to run the tool.
+
+4. Verify the Output:
+
+    After the tool finishes processing, new UGrid files (and their respective datasets) will be found in the "Project Folder" directory you specified earlier.
